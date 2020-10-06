@@ -8,4 +8,4 @@ Though this edition is thread safe, I may do these things next.
 - use asembly code to get CPU cycles to count time
 - wrapper the API by using macros
 - rebuild this project in more C++ style way(chinglish...:)
-- After,try to do the same thing by not using CAS's Lock -- memory_order(C20)
+- After,try to do the same thing by not using CAS's Lock -- memory_order(C++20)
